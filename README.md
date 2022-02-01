@@ -35,5 +35,27 @@ Tabel dim_product
 
 **The answer is in this query*** : https://github.com/skamal13/coding_assignment/blob/main/code/dim_product.sql
 
+
 ### 3) Build a table C from joining table A and table B with some key, but the table A is in project X and table B is in project Y(having different regions too) in google cloud
 **The answer is in this query** : https://github.com/skamal13/coding_assignment/blob/main/code/tabel_c.sql
+
+
+### 4) Split a file which has n number of schema def. And store them in a dict of lists(no 3rd party imports)
+**The answer is in this code** : https://github.com/skamal13/coding_assignment/blob/main/code/csv_to_dict.py
+
+
+### 5) Create a array based table in bigquery and once the table is created, add a new column after every load, and load a file(csv or json) which have blank values in some records ,handle this load 
+
+
+### 6) Write a sample code which sends in a pub sub message whenever a new file comes to google cloud storage bucket(message attributes(filename/filepath and the timestamp)
+**The answer is in this code** : 
+ https://github.com/skamal13/coding_assignment/blob/main/code/create_topic_pubsub.py
+ https://github.com/skamal13/coding_assignment/blob/main/code/subscribing_pubsub.py
+ 
+ 
+### 7) Convert [5f241ba580278b1d0459992b,5f252edd80278b1d0459992c] to timestamp using bigquery
+**The answer is in this query** : https://github.com/skamal13/coding_assignment/blob/main/code/objectid_timestamp.sql
+
+
+### 8) Read a config file having flags, and create metric def based on flag values
+**The answer is in this code** : https://github.com/skamal13/coding_assignment/blob/main/code/read_config_metric.py
