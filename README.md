@@ -45,6 +45,7 @@ Tabel dim_product
 
 
 ### 5) Create a array based table in bigquery and once the table is created, add a new column after every load, and load a file(csv or json) which have blank values in some records ,handle this load 
+**The answer is in this code** : https://github.com/skamal13/coding_assignment/blob/main/code/array_based_table.py
 
 
 ### 6) Write a sample code which sends in a pub sub message whenever a new file comes to google cloud storage bucket(message attributes(filename/filepath and the timestamp)
