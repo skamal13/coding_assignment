@@ -1,8 +1,7 @@
 # Coding Assignment
 
 ### 1) Split a time interval into equal portions
-**The answer**
-**This is the query** : https://github.com/skamal13/coding_assignment/blob/main/code/split_time_interval.sql
+**The answer is in this query** : https://github.com/skamal13/coding_assignment/blob/main/code/split_time_interval.sql
 
 ### 2) Implement a test SCD2 table in BigQuery
 **The answer** : 
@@ -36,5 +35,4 @@ Tabel dim_product
 **This is the query** : https://github.com/skamal13/coding_assignment/blob/main/code/dim_product.sql
 
 ### 2) build a table C from joining table A and table B with some key, but the table A is in project X and table B is in project Y(having different regions too) in google cloud
-**The answer**
-**This is the query** : https://github.com/skamal13/coding_assignment/blob/main/code/tabel_c.sql
+**The answer is in this query** : https://github.com/skamal13/coding_assignment/blob/main/code/tabel_c.sql
