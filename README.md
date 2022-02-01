@@ -33,7 +33,7 @@ Tabel dim_product
 | 3             | product c     |   30      | 2022-01-30 | 9999-12-30 |
 | 4             | product d     |   40      | 2022-01-30 | 9999-12-30 |
 
-**The answer is in this query*** : https://github.com/skamal13/coding_assignment/blob/main/code/dim_product.sql
+**The answer is in this query** : https://github.com/skamal13/coding_assignment/blob/main/code/dim_product.sql
 
 
 ### 3) Build a table C from joining table A and table B with some key, but the table A is in project X and table B is in project Y(having different regions too) in google cloud
