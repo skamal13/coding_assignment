@@ -1,0 +1,8 @@
+CREATE TEMPORARY FUNCTION
+    OBJECTID_TIMESTAMP(mid STRING)
+    RETURNS TIMESTAMP
+    LANGUAGE js AS """
+        return new Date(parseInt(mid.substring(0, 8), 16) * 1000);
+    """
+;
+SELECT OBJECTID_TIMESTAMP("5f241ba580278b1d0459992b") AS timestamp1, OBJECTID_TIMESTAMP("5f252edd80278b1d0459992c") AS timestamp2;
