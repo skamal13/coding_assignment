@@ -22,7 +22,7 @@ Tabel dim_product
 | 2             | product b     |   20      | 2022-01-29 | 9999-12-30 |
 | 3             | product c     |   30      | 2022-01-29 | 9999-12-30 |
 
-this is dimention table (dim_product) after merge with staging table (stg_product)
+this below is dimention table (dim_product) after merge with staging table (stg_product)
 
 Tabel dim_product
 | product_id    | product_name  | quantity  | start_date |  end_date  |
