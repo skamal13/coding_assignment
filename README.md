@@ -23,6 +23,7 @@ Tabel dim_product
 | 3             | product c     |   30      | 2022-01-29 | 9999-12-30 |
 
 this is dimention table (dim_product) after merge with staging table (stg_product)
+
 Tabel dim_product
 | product_id    | product_name  | quantity  | start_date |  end_date  |
 | ------------- |:-------------:| ---------:| ---------: |  ---------:|
@@ -34,5 +35,5 @@ Tabel dim_product
 
 **The answer is in this query*** : https://github.com/skamal13/coding_assignment/blob/main/code/dim_product.sql
 
-### 3) build a table C from joining table A and table B with some key, but the table A is in project X and table B is in project Y(having different regions too) in google cloud
+### 3) Build a table C from joining table A and table B with some key, but the table A is in project X and table B is in project Y(having different regions too) in google cloud
 **The answer is in this query** : https://github.com/skamal13/coding_assignment/blob/main/code/tabel_c.sql
