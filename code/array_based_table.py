@@ -29,5 +29,5 @@ for filename in files:
     job_config.schema = schema
 
     load_job = client.load_table_from_dataframe(
-        df, '`projectx``.`dataset`.`array_based_table`', job_config = job_config
+        df, '`projectx`.`dataset`.`array_based_table`', job_config = job_config
     )
